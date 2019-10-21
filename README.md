@@ -10,5 +10,3 @@ now we are building  an algorithm to detect acute intracranial hemorrhage and it
 we’ll develop your solution using a rich image dataset provided by the Radiological Society of North America (RSNA) in collaboration with members of the American Society of Neuroradiology.
 
 If successful, you’ll help the medical community identify the presence, location and type of hemorrhage in order to quickly and effectively treat affected patients.
-
-Challenge participants may be invited to present their AI models and methodologies during an award ceremony at the RSNA Annual Meeting which will be held in Chicago, Illinois, USA, from December 1-6, 2019.
